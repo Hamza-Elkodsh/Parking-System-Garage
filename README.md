@@ -1,2 +1,2 @@
-# Parking-System-Garage
-A comprehensive parking management system for Egypt University of Informatics.
+# Automated University Garage Managment System (AUGMS)
+The Automated University Garage Managment System (AUGMS) is an innovative solution designed to modernize and streamline parking management within a university campus. It automates vehicle entry and exit through license plate verification, tracks parking occupancy in real-time using existing sensors, and provides both users and administrators with live updates for efficient parking management.
